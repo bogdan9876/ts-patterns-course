@@ -3,7 +3,8 @@
     "version": "1.0.0",
     "description": "Design Patterns In TypeScript",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
+      "start": "node ./dist/test.js",
+      "watch": "tsc -p ./src -w"
     },
     "author": "",
     "license": "",
