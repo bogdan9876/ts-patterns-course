@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "Design Patterns In TypeScript",
     "scripts": {
-      "start": "node ./dist/creational/builder/client.js",
+      "start": "node ./dist/creational/singleton/client.js",
       "watch": "tsc -p ./src -w"
     },
     "author": "",
